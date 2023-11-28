@@ -5,3 +5,5 @@
 
 Here is the link for the complete recipe:
 https://littlespicejar.com/ghormeh-sabzi/
+
+for more details check the code!
