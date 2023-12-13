@@ -28,3 +28,5 @@ for more details check the code!
   <li>Third item</li>
   <li>Fourth item</li>
 </ul>
+
+my sentence include **Bold** and *italic* workds
