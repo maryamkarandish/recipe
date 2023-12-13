@@ -30,3 +30,5 @@ for more details check the code!
 </ul>
 
 my sentence include **Bold** and *italic* workds
+
+![recipe](/recipe.jpg)
