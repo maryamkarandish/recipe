@@ -31,4 +31,4 @@ for more details check the code!
 
 my sentence include **Bold** and *italic* workds
 
-![recipe](/recipe.jpg)
+![recipe](recipe.jpg)
